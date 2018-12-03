@@ -10,6 +10,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
+/**
+ * 文件夹
+ */
 @RestController
 @RequestMapping("/folder")
 public class FolderController {
